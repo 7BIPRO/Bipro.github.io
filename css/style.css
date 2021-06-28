@@ -1,0 +1,58 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.bannercontainer{
+    background-color:aquamarine
+}
+.banner-column{
+    background-color: rgb(105, 128, 128);
+}
+.navbar-container{
+    background-color: rgb(24, 3, 46);
+}
+.about-container{
+    background-color: cadetblue;
+}
+.education-container{
+    background-color: rgb(250, 247, 235);
+}
+.bg-redtype{
+    background-color: cornsilk;
+}
+.redtype-color{
+
+}
+
+.circle{
+    background-color: darkgrey;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+        background-color: blueviolet;
+}
+
+.form-container{
+    background-color: darkslategrey;
+}
+.inner-form{
+    background-color: darkslategrey;
+}
+.footer{
+    background-color: fuchsia;
+}
+.circles{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    align-content: center;
+}
+.circles:hover{
+   
+    background-color: rgb(148, 52, 52);
+    color: teal;
+}
